@@ -1,1 +1,2 @@
 # MLM_Variable_Selection
+The purpose of this project to derive a method to identify and estimate latent variables in a two level molongitudinal model.  This work is divided into three sections, with a fourth serving as a respository for output such as images, tables, and figures.
